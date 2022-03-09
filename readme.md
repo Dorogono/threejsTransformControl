@@ -1,4 +1,4 @@
-# three.js를 활용한 모델의 Transform Control
+# three.js의 Transform Control
 
 Sketchfab의 Editor 기능을 보고 three.js에서 구현해 본 가장 간단한 작업물입니다.
 
