@@ -2,7 +2,7 @@
 
 Sketchfab의 Editor 기능을 보고 three.js에서 구현해 본 가장 간단한 작업물입니다.
 
-이미 transform을 할 수 있는 모듈을 발견해 어떻게 구현되는지 만들어 봤습니다.
+transform을 할 수 있는 모듈을 발견해 구현을 해봤습니다.
 
 
 
